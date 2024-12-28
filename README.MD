@@ -140,7 +140,7 @@ print("Panjang setiap sirkuit:", graph.panjang_sirkuit())
 - Informasi lengkap tentang struktur graf seperti komponen terhubung, derajat simpul, diameter, dan sirkuit.
 
 ## Download
-Silahkan clone github ini dan test sendiri : https://github.com/ 
+Silahkan clone github ini dan test sendiri : https://github.com/KingPublic/ALP_Diskrit_grafpython_AndreyhartawanS
 
 ## Kesimpulan
 
